@@ -18,9 +18,9 @@ import (
 	"errors"
 	"fmt"
 
+	solana "github.com/doujins-org/solana-go"
+	format "github.com/doujins-org/solana-go/text/format"
 	bin "github.com/gagliardetto/binary"
-	solana "github.com/gagliardetto/solana-go"
-	format "github.com/gagliardetto/solana-go/text/format"
 	treeout "github.com/gagliardetto/treeout"
 )
 

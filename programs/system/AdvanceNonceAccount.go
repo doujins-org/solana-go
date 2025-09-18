@@ -18,9 +18,9 @@ import (
 	"encoding/binary"
 	"fmt"
 
+	ag_solanago "github.com/doujins-org/solana-go"
+	ag_format "github.com/doujins-org/solana-go/text/format"
 	ag_binary "github.com/gagliardetto/binary"
-	ag_solanago "github.com/gagliardetto/solana-go"
-	ag_format "github.com/gagliardetto/solana-go/text/format"
 	ag_treeout "github.com/gagliardetto/treeout"
 )
 

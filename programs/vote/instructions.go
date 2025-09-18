@@ -20,9 +20,9 @@ import (
 	"fmt"
 
 	"github.com/davecgh/go-spew/spew"
+	"github.com/doujins-org/solana-go"
+	"github.com/doujins-org/solana-go/text"
 	bin "github.com/gagliardetto/binary"
-	"github.com/gagliardetto/solana-go"
-	"github.com/gagliardetto/solana-go/text"
 	"github.com/gagliardetto/treeout"
 )
 
