@@ -1,6 +1,6 @@
 # Solana SDK library for Go
 
-[![GoDoc](https://pkg.go.dev/badge/github.com/doujins-org/solana-go?status.svg)](https://pkg.go.dev/github.com/doujins-org/solana-go@v1.12.0?tab=doc)
+[![GoDoc](https://pkg.go.dev/badge/github.com/doujins-org/solana-go?status.svg)](https://pkg.go.dev/github.com/doujins-org/solana-go@v1.13.0?tab=doc)
 [![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/gagliardetto/solana-go?include_prereleases&label=release-tag)](https://github.com/doujins-org/solana-go/releases)
 [![Build Status](https://github.com/doujins-org/solana-go/workflows/tests/badge.svg?branch=main)](https://github.com/doujins-org/solana-go/actions?query=branch%3Amain)
 [![TODOs](https://badgen.net/https/api.tickgit.com/badgen/github.com/doujins-org/solana-go/main)](https://www.tickgit.com/browse?repo=github.com/doujins-org/solana-go&branch=main)
@@ -83,7 +83,7 @@ Thanks!
 
 ## Current development status
 
-There is currently **no stable release**. The SDK is actively developed and latest is `v1.12.0` which is an `alpha` release.
+There is currently **no stable release**. The SDK is actively developed and latest is `v1.13.0` which is an `alpha` release.
 
 The RPC and WS client implementation is based on [this RPC spec](https://github.com/solana-labs/solana/blob/c2435363f39723cef59b91322f3b6a815008af29/docs/src/developing/clients/jsonrpc-api.md).
 
@@ -94,13 +94,13 @@ The RPC and WS client implementation is based on [this RPC spec](https://github.
 
 ## Requirements
 
-- Go 1.19 or later
+- Go 1.24 or later
 
 ## Installation
 
 ```bash
 $ cd my-project
-$ go get github.com/doujins-org/solana-go@v1.12.0
+$ go get github.com/doujins-org/solana-go@v1.13.1
 ```
 
 ## Pretty-Print transactions/instructions
