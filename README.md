@@ -100,7 +100,7 @@ The RPC and WS client implementation is based on [this RPC spec](https://github.
 
 ```bash
 $ cd my-project
-$ go get github.com/doujins-org/solana-go@v1.13.1
+$ go get github.com/doujins-org/solana-go@v1.13.0
 ```
 
 ## Pretty-Print transactions/instructions
